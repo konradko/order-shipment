@@ -1,0 +1,2 @@
+class ShipmentUpdateValidationError(Exception):
+    pass
